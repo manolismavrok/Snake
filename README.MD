@@ -1,1 +1,1 @@
-To run the game execute **java -jar snake.jar** on the root of this project=======
+To run the game execute **java -jar snake.jar** on the root of this project
